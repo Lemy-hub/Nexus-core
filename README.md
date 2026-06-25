@@ -10,4 +10,8 @@ One app. Infinite assistance.
 What this repo contains
 
 •Project vision, architecture, MVP, and roadmap docs
-•
+•Templates and CI workflows to scaffold the full-stack project
+•Guidance for contributors and initial issue/pr templates
+
+Core features (high level)
+
