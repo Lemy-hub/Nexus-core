@@ -15,3 +15,8 @@ What this repo contains
 
 Core features (high level)
 
+•AI assistant with deep search (local + web)
+•Duolingo-style learning module
+•Gesture navigation + camera/mic permission flows
+•AI image generation integration
+•
