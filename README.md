@@ -19,4 +19,5 @@ Core features (high level)
 •Duolingo-style learning module
 •Gesture navigation + camera/mic permission flows
 •AI image generation integration
-•
+•Offline-first fallback for critical features
+•Modular downloads for optional features
